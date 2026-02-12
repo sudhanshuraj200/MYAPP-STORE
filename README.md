@@ -1,4 +1,4 @@
-# AppStore (Django)
+# MYAPP STORE
 
 A Django-based mini app store where users can browse and download approved APKs, and developers can upload and manage apps.
 
